@@ -1,7 +1,5 @@
 # Campanha-de-Midia-Social
 Campanha fictícia de mídia social para aumentar engajamento e reconhecimento de marca. Demonstração de habilidades em marketing digital. 🚀
-# Campanha de Mídia Social
-
 ## Visão Geral
 
 Este repositório apresenta uma campanha fictícia de mídia social criada para demonstrar minhas habilidades como Analista de Marketing Digital e Social Media Manager. A campanha foi projetada para promover um novo produto de tecnologia.
